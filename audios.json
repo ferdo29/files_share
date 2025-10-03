@@ -3,24 +3,21 @@
     "url": "https://ferdo29.github.io/files_share/audio/Resonnance_-_mickeyhuc.mp3",
     "title": "Resonnance",
     "artist": "Mickael Huchet",
+    "artwork": "https://ferdo29.github.io/files_share/artwork/Resonnance_-_mickeyhuc.jpeg",
     "duration": 197.92979591836735
   },
   {
     "url": "https://ferdo29.github.io/files_share/audio/The_Mind_Orchestra_-_Enchanters_Nightshade.mp3",
     "title": "Enchanters Nightshade",
     "artist": "The Mind Orchestra",
+    "artwork": "https://ferdo29.github.io/files_share/artwork/The_Mind_Orchestra_-_Enchanters_Nightshade.jpeg",
     "duration": 363.36326530612246
-  },
-  {
-    "url": "https://ferdo29.github.io/files_share/audio/apotheosis.mp3",
-    "title": "Apotheosis",
-    "artist": "Lorna Shore",
-    "duration": 294.7918367346939
   },
   {
     "url": "https://ferdo29.github.io/files_share/audio/Equilibrium_-_Ron_Gelinas.mp3",
     "title": "Equilibrium",
     "artist": "Ron Gelinas",
+    "artwork": "https://ferdo29.github.io/files_share/artwork/Equilibrium_-_Ron_Gelinas.jpg",
     "duration": 162.03755102040816
   }
 ]
