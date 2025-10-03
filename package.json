@@ -1,0 +1,8 @@
+{
+  "name": "audio-cdn",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node tools/build-manifest.mjs"
+  }
+}
