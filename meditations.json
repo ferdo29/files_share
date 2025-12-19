@@ -1,0 +1,62 @@
+[
+  {
+    "id": "019b36fb-5434-7000-aa53-c913bc587a0c",
+    "title": "Loveself",
+    "description": "Это медитация о мягком возвращении к себе.\nО принятии, заботе и внутреннем тепле, которое всегда рядом, даже если мы временно забываем о нём./\n\nВо время практики ты направляешь внимание внутрь, замедляешь дыхание и позволяешь себе быть настоящим — без оценок и ожиданий. С каждым вдохом ты наполняешься спокойствием, с каждым выдохом отпускаешь напряжение и сомнения.\n\nLoveself помогает услышать свои чувства, принять уязвимость и напомнить себе: ты уже достаточно хорош.\nЭто\nпространство, где можно остановиться, восстановить контакт с телом и мыслями, и дать себе то, что часто откладывается — любовь, поддержку и тишину.\nПодходит для ежедневной практики, утреннего настроя или вечернего расслабления.\nПросто будь. Просто дыши. Просто выбери себя.",
+    "image": ["https://ferdo29.github.io/files_share/atword/loveself.jpg"],
+    "video": ["https://ferdo29.github.io/files_share/video/loveself.mp4"],
+    "audio": [
+      {
+        "url": "https://ferdo29.github.io/files_share/audio/Resonnance_-_mickeyhuc.mp3",
+        "title": "Resonnance",
+        "artist": "Mickael Huchet",
+        "artwork": "https://ferdo29.github.io/files_share/artwork/Resonnance_-_mickeyhuc.jpeg",
+        "duration": 197.92979591836735
+      },
+      {
+        "url": "https://ferdo29.github.io/files_share/audio/The_Mind_Orchestra_-_Enchanters_Nightshade.mp3",
+        "title": "Enchanters Nightshade",
+        "artist": "The Mind Orchestra",
+        "artwork": "https://ferdo29.github.io/files_share/artwork/The_Mind_Orchestra_-_Enchanters_Nightshade.jpeg",
+        "duration": 363.36326530612246
+      },
+      {
+        "url": "https://ferdo29.github.io/files_share/audio/Equilibrium_-_Ron_Gelinas.mp3",
+        "title": "Equilibrium",
+        "artist": "Ron Gelinas",
+        "artwork": "https://ferdo29.github.io/files_share/artwork/Equilibrium_-_Ron_Gelinas.jpg",
+        "duration": 162.03755102040816
+      }
+    ]
+  },
+  {
+    "id": "019b36fb-5434-7001-b073-e3b5cc278e70",
+    "title": "Inner Balance",
+    "description": "Медитация о возвращении к устойчивости и внутреннему равновесию.\nОна помогает отпустить хаотичные мысли, снизить эмоциональное напряжение и найти спокойную точку опоры внутри себя.\n\nВо время практики внимание мягко направляется на дыхание и ощущения в теле. Ты наблюдаешь, как мысли приходят и уходят, не вовлекаясь в них. Постепенно возникает чувство ясности, собранности и тишины.\n\nInner Balance подходит для моментов стресса, перегрузки или когда хочется восстановить внутренний\nпорядок и гармонию.\nЭто медитация, которая напоминает: даже в движении жизни внутри тебя может быть спокойно.",
+    "image": ["https://ferdo29.github.io/files_share/atword/inner_balance.jpg"],
+    "video": ["https://ferdo29.github.io/files_share/video/inner_balance.mp4"],
+    "audio": [
+      {
+        "url": "https://ferdo29.github.io/files_share/audio/Resonnance_-_mickeyhuc.mp3",
+        "title": "Resonnance",
+        "artist": "Mickael Huchet",
+        "artwork": "https://ferdo29.github.io/files_share/artwork/Resonnance_-_mickeyhuc.jpeg",
+        "duration": 197.92979591836735
+      },
+      {
+        "url": "https://ferdo29.github.io/files_share/audio/The_Mind_Orchestra_-_Enchanters_Nightshade.mp3",
+        "title": "Enchanters Nightshade",
+        "artist": "The Mind Orchestra",
+        "artwork": "https://ferdo29.github.io/files_share/artwork/The_Mind_Orchestra_-_Enchanters_Nightshade.jpeg",
+        "duration": 363.36326530612246
+      },
+      {
+        "url": "https://ferdo29.github.io/files_share/audio/Equilibrium_-_Ron_Gelinas.mp3",
+        "title": "Equilibrium",
+        "artist": "Ron Gelinas",
+        "artwork": "https://ferdo29.github.io/files_share/artwork/Equilibrium_-_Ron_Gelinas.jpg",
+        "duration": 162.03755102040816
+      }
+    ]
+  }
+]

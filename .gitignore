@@ -3,3 +3,4 @@ tsconfig.json
 bun.lock
 _src
 node_modules
+.idea
